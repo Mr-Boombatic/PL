@@ -1,0 +1,6 @@
+<table>
+	<tr><td>Text1</td></tr>
+	<tr><td>Text3</td><td style="color:#0000ff;background-color:#00ffff">Text4</td></tr>
+	<tr><td>Text3</td><td style="color:#0000ff;background-color:#00ffff">Text4</td></tr>
+	<tr><td><span style="color:#0000ff;background-color:#00ffff">Tex</span>t3</td></tr>
+</table>

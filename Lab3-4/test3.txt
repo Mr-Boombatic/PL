@@ -1,0 +1,13 @@
+<table>
+	<tr>
+		<td rowspan="2">
+			Text1
+		</td>
+    <td>Text2</td>
+	</tr>
+	<tr>
+		<td>
+			Text4
+		</td>
+	</tr>
+</table>
